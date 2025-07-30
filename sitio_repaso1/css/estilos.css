@@ -1,0 +1,20 @@
+body{
+   background: linear-gradient(to bottom,#B8F800, #2EFF00,#12F852);
+}
+
+p{
+	font-family: comic sans MS;
+	font-size: 16px;
+	color: darkred;
+}
+
+h1, h2,td{
+	text-align: center;
+}
+
+table{
+	margin-left:auto ;
+	margin-right:auto;
+
+}
+
